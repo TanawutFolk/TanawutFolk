@@ -1,9 +1,9 @@
-<h1 align="left">Hi There 👋 I'm Folk</h1>
+<h1 align="left">Hi There</h1>
 
 ###
-- 🙋‍♂️ Tanawut Patrawan (ธนาวุธ ปัตระวรรณ)
-- 🎂 Age: 22  
-- 🎓 Computer Science Student @ Rajamangala University of Technology Suvarnabhumi (Ayutthaya)<br>
+- Tanawut Patrawan (ธนาวุธ ปัตระวรรณ)
+- Age: 22  
+- Computer Science Student @ Rajamangala University of Technology Suvarnabhumi (Ayutthaya)<br>
 ---
 
 ## 💻 Tech Stack
