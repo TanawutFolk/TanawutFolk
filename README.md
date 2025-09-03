@@ -1,5 +1,3 @@
-- Tanawut Patrawan (ธนาวุธ ปัตระวรรณ)
-- Age: 22  
 - Computer Science Student @ Rajamangala University of Technology Suvarnabhumi (Ayutthaya)<br>
 ---
 
