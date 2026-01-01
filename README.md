@@ -1,3 +1,2 @@
 - Computer Science Student @ Rajamangala University of Technology Suvarnabhumi (Ayutthaya)<br>
 ---
----
